@@ -3,10 +3,10 @@ import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { injected, walletconnect } from '../connectors'
 // TODO
-export const ROUTER_ADDRESS = '0x989e555316F2cEF1949d782Fd875995F83b65FA0'
+export const ROUTER_ADDRESS = '0x14e6928F95dd3c9d59BDC4DA35422fee4A283e88'
 export const EVANGALIST_ADDRESS = '0x98AfadCD618cB31664fa70F900ae3255eEc5B167'
 export const ROULETTE_ADDRESS = '0x6Ff62980E0D2457D2AdCf66dD3FdCf302f7E69A7'
-export const MINEBANK_ADDRESS = '0xFaeeB70613A8809fFAC569665c337dBf8Ec6C852'
+export const MINEBANK_ADDRESS = '0x59ACDE0AEe92D27EE2448Fb1Ad8a21f1eC2cf0Ac'
 
 // a list of tokens by chain
 type ChainTokenList = {
